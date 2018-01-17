@@ -1,0 +1,292 @@
+div.box1 {
+background:#6E7532;
+text-align:center;
+color:#edd787;
+width:700px;
+height:60px;
+border:1px solid #676d2f;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:#9c9e4a;
+text-align:center;
+color:#efc867;
+width:700;
+height:255px;
+border:1px solid #9c9e4a;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:#9c9e4a;
+text-align:center;
+color:#efc867;
+width:700px;
+height:60px;
+border:1px solid #9c9e4a;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:#9c9e4a;
+text-align:center;
+color:#efc867;
+width:700px;
+height:255px;
+border:1px solid #9c9e4a;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:#9c9e4a;
+text-align:center;
+color:#efc867;
+width:700px;
+height:60px;
+border:1px solid #9c9e4a;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:#9c9e4a;
+text-align:center;
+color:#efc867;
+width:700px;
+height:255px;
+border:1px solid #9c9e4a;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:#6c6d36;
+color:#efc867;
+border:1px solid #6c6d36;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+  
+ 
+body {
+background: url("https://www.lioden.com/images/arttutorials/BG4.jpg") fixed;
+background-repeat: no-repeat;
+background-size: cover;
+color: #000;
+}
+ 
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+ 
+h1, h3 , .sidebar h3 {
+font-family: Arial !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+ 
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: #f2e2bc;
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+  
+  
+/* Links */
+  
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+  
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+  
+/* Topbar */
+  
+.topbar {
+background: rgb(158, 158, 69);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+ 
+.badge {
+background: rgb(158, 158, 69);
+border: 1px solid #000;
+}
+  
+/* Navigational Bar */
+  
+.main {
+background: rgb(158, 158, 69);
+border: 1px solid #000;
+box-shadow: none;
+}
+  
+.navbar {
+background: #96884c;
+border-bottom: 1px solid #000;
+color: #000;
+}
+  
+.navbar-default .navbar-nav > li > a {
+color: #000;
+}
+  
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #96884c;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+} 
+  
+  
+  
+/* Sidebar */
+  
+.sidebar {
+background: rgb(158, 158, 69);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+}
+  
+.col-md-3 .panel {
+background: rgb(158, 158, 69);
+border: 1px solid #000;
+box-shadow: none;    
+}
+  
+.progress-bar {
+background: #dbc083;
+}
+  
+.progress {
+background: #f2e7bf;
+border: 1px solid #000;
+}
+  
+  
+/* Chat */
+  
+.chat_light, .chat_dark {
+background: rgb(239, 214, 170);
+font-size: 11px;
+color: #000;
+}
+ 
+.chatContainer {
+border: 1px solid #000;
+}
+  
+.userstolen {
+background: none;
+}
+ 
+.alert-danger {
+color: #000;
+background: rgb(79, 68, 49);
+border: 1px solid #000;
+}
+ 
+.alert-success {
+color: #000;
+background: rgb(79, 68, 49);
+border: 1px solid #000;
+}
+ 
+.breadcrumb {
+background:  #738448;
+font-size: 13px;
+border: 1px solid #000;
+}
+  
+.breadcrumb>.active {
+color: #000;
+}
+  
+h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+}
+  
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+}
+  
+/* Tables */
+  
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+}
+  
+.table, .item {
+border: 1px solid #000;
+background: #803C5D;
+border-collapse: separate;
+}
+ 
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+}
+ 
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: #e5d4a7;
+color: #000;
+}
+ 
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #f7e0a5;
+color: #000;
+}
+ 
+.table .left {
+border: 1px solid #000;
+background: #f7e0a5;
+color: #000;
+}
+ 
+.inner-table .right {
+background: #fef8e3;
+border: 1px solid #000;
+border-left: none;
+}
+ 
+ 
+
+ 
+/* 
+CSS template originally created and presented by Kraft (#738/#1105)
+*/
